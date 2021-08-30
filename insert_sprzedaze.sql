@@ -1,0 +1,18 @@
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('9183669814065', 1, 2, 0, 'gotowka', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('7277098145012', 1, 1, 0, 'gotowka', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('9506469414499', 1, 1, 0, 'gotowka', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('5137012309744', 2, 2, 0, 'karta', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('7277098145012', 2, 1, 50, 'karta', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('1113405405405', 10, 1, 0, 'blik', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('2799938586987', 10, 2, 0, 'blik', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('3584220550976', 31, 1, 100, 'gotowka', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('7915655336004', 31, 2, 0, 'gotowka', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('9183669814065', 31, 2, 0, 'gotowka', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('8874347986833', 42, 2, 0, 'karta', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('9183669814065', 42, 2, 0, 'karta', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('5429285296546', 8, 2, 0, 'karta', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('6427612350933', 8, 1, 50, 'karta', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('4768911602123', 8, 1, 100, 'karta', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('2665534082899', 49, 1, 0, 'blik', '');
+INSERT INTO sprzedaze (kod_gtin, numer_recepty, ilosc, odplatnosc, metoda_platnosci, uwagi) VALUES ('7915655336004', 49, 2, 0, 'blik', '');
+commit;

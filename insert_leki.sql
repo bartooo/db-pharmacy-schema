@@ -1,0 +1,12 @@
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Apap', 'Paracetamolum', '500mg', 'tabletka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Pylargina', 'Metamizolum natricum', '500 mg', 'tabletka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Altacet', 'Aluminii acetotartras', '10mg/g', 'zel', 'na skore', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Prozac', 'Fluoxetine', '20mg', 'tabletka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Telfexo', 'Fexofenadini hydrochloridum', '180mg', 'tabletka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Naproxen', 'Naproxenum', '250mg', 'tabletka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Cholinex', 'Cholini salicylas', '150mg', 'drazetka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Rutinoscorbin', 'Rutosidum+Acidum ascorbicum', '25mg+100mg', 'tabletka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Tantum Verde', 'Benzydamini hydrochloridum', '0.15g/100ml', 'roztwor', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('No-Spa', 'Drotaverini hydrochloridum', '40mg', 'tabletka', 'doustnie', '');
+INSERT INTO leki_refundowane (nazwa, nazwa_substancji_czynnej, moc, postac, sposob_podania, opis) VALUES ('Ibuprom', 'Ibuprofenum', '200mg', 'tabletka', 'doustnie', '');
+commit;
